@@ -1,7 +1,7 @@
-## Olá sou a Brithany Willson👋 
+## Olá sou a Raissa Oliveira👋 
 - 🎒 Sou estudante DS
 - 💬 Pergunte -me sobre meu curso
-- 📫 Como entrar em contato comigo:brithanywilson@gmail.com
+- 📫 Como entrar em contato comigo:raissaallmeida09@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Progamação
 <div style="display: inline_block"><br>
